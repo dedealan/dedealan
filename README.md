@@ -1,5 +1,4 @@
 ### Halo, saya Dede Alan Wiratmana.
-## Saya seorang Suami, Ayah, Developer, dan seorang pekerja keras.
 - 🏢 Saat ini saya bekerja di perusahaan swasta sebagai Data Analyst
 - 👨‍💻 Saya senang belajar dengan hal-hal baru di bidang IT
 - 🎓 Basis pendidikan bukan di bidang IT, tapi saya sangat senang membuat website dan web app
