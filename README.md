@@ -36,9 +36,10 @@
 <br />
 
 ## Proyek & Aplikasi
-- [BlidiToko](https://bliditoko.web.app)
-- [Beli Onlen](https://belionlen.web.app/)
-
+- [BlidiToko](https://bliditoko.web.app) (E-Commerce)
+- [Beli Onlen](https://belionlen.web.app) (E-Commerce)
+- [DevPro Jabar](https://devprojabar.web.app) (Aplikasi untuk report aktivitas lapangan di salah satu perusahaan)
+- [MD Jabar](https://devprojabar.web.app) (Aplikasi untuk report aktivitas controling tim MD di salah satu perusahaan)
 
 [github]: https://github.com/dedealan
 [twitter]: https://twitter.com/dedealanw
