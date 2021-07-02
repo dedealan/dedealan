@@ -38,8 +38,8 @@
 ## Web & Aplikasi
 - [BlidiToko](https://bliditoko.web.app) (E-Commerce)
 - [Beli Onlen](https://belionlen.web.app) (E-Commerce)
-- [DevPro Jabar](https://devprojabar.web.app) (Aplikasi untuk report aktivitas lapangan di salah satu perusahaan)
-- [On Hand Report](https://onhandreport.web.app) (Aplikasi untuk report aktivitas lapangan di salah satu perusahaan)
+- [DevPro Jabar](https://devprojabar.web.app) (Aplikasi untuk report aktivitas lapangan di departemen salah satu perusahaan swasta)
+- [On Hand Report](https://onhandreport.web.app) (Aplikasi untuk report aktivitas lapangan di departemen salah satu perusahaan swasta)
 
 [github]: https://github.com/dedealan
 [twitter]: https://twitter.com/dedealanw
