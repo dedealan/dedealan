@@ -45,4 +45,4 @@
 [twitter]: https://twitter.com/dedealanw
 [instagram]: https://instagram.com/dedealan
 [linkedin]: https://linkedin.com/in/dedealan
-[facebook]: https://fb.com/dedealan21
+[facebook]: https://fb.com/dedealanw
