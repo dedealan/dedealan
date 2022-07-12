@@ -27,7 +27,7 @@
 [<img align="left" alt="Dart" title="Dart" width="26px" src="https://cdnlogo.com/logos/d/66/dart.svg" />](https://dart.dev)
 [<img align="left" alt="Flutter" title="Flutter" width="26px" src="https://cdnlogo.com/logos/f/30/flutter.svg" />](https://flutter.dev)
 [<img align="left" alt="GitHub" title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
+[<img align="left" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
 [<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com)
 [<img align="left" alt="Laragon" title="Laragon" width="26px" src="https://laragon.org/logo.svg" />](https://laragon.org)
 <br />
