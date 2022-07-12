@@ -1,8 +1,8 @@
-### Halo, saya Dede Alan Wiratmana.
-- 🏢 Saat ini saya bekerja di perusahaan swasta sebagai Data Analyst
-- 👨‍💻 Saya senang belajar dengan hal-hal baru di bidang IT
-- 🎓 Basis pendidikan bukan di bidang IT, tapi saya sangat senang membuat website dan web app
-- ⛏ Hal yang saya senangi dalam pemrograman adalah saat melakukan *scraping*
+### Halo, perkenalkan nama saya Dede Alan Wiratmana.
+- 🏢 Saat ini saya bekerja sebagai menejer di sebuah perusahaan yang bergerak di bidang online advertising. Saya juga terkadang suka menerima pekerjaan freelance untuk membuat web app
+- 👨‍💻 Saya orang yang terbuka dan senang belajar dengan hal-hal baru di bidang IT
+- 🎓 Basis pendidikan saya bukan di bidang IT, tetapi saya sangat senang dalam menekuni bidang IT seperti membuat website dan web app
+- ⛏ Salah satu hal yang saya senangi dalam pemrograman adalah saat melakukan *scraping*. Karena saya bisa mengolah sebuah informasi menjadi data, kemudian dari data tersebut saya bisa sajikan menjadi informasi bentuk lain yang saya inginkan.
 
 
 ### Terhubung dengan saya:
@@ -15,8 +15,6 @@
 
 ### Tools dan Bahasa Pemrograman:
 
-[<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com)
-[<img align="left" alt="Laragon" title="Laragon" width="26px" src="https://laragon.org/logo.svg" />](https://laragon.org)
 [<img align="left" alt="HTML5" title="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
 [<img align="left" alt="CSS3" title="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
 [<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
@@ -30,7 +28,8 @@
 [<img align="left" alt="Flutter" title="Flutter" width="26px" src="https://cdnlogo.com/logos/f/30/flutter.svg" />](https://flutter.dev)
 [<img align="left" alt="GitHub" title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
-
+[<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com)
+[<img align="left" alt="Laragon" title="Laragon" width="26px" src="https://laragon.org/logo.svg" />](https://laragon.org)
 <br />
 <br />
 <br />
