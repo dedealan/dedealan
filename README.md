@@ -6,7 +6,7 @@
 
 
 ### Terhubung dengan saya:
-[<img align="left" alt="Dede Alan Wiratmana | LinkedIn" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Dede Alan Wiratmana | LinkedIn" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="background-color: blue;" />][linkedin]
 [<img align="left" alt="Dede Alan Wiratmana | Instagram" title="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Dede Alan Wiratmana | Facebook" title="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Dede Alan Wiratmana | Twitter" title="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
