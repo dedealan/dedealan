@@ -6,10 +6,10 @@
 
 
 ### Terhubung dengan saya:
-[<img align="left" alt="Dede Alan Wiratmana | LinkedIn" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Dede Alan Wiratmana | Facebook" title="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Dede Alan Wiratmana | Instagram" title="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Dede Alan Wiratmana | Twitter" title="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Dede Alan Wiratmana | LinkedIn" title="LinkedIn" width="22px" src="https://ico.vercel.app/linkedin/0078B5" />][linkedin]
+[<img align="left" alt="Dede Alan Wiratmana | Facebook" title="Facebook" width="22px" src="https://ico.vercel.app/facebook/3B579D" />][facebook]
+[<img align="left" alt="Dede Alan Wiratmana | Instagram" title="Instagram" width="22px" src="https://ico.vercel.app/instagram/F20007" />][instagram]
+[<img align="left" alt="Dede Alan Wiratmana | Twitter" title="Twitter" width="22px" src="https://ico.vercel.app/twitter/1da1f2" />][twitter]
 
 <br />
 
