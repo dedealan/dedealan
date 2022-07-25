@@ -35,11 +35,11 @@
 <br />
 
 ## Web & Aplikasi
-- [BlidiToko](https://bliditoko.web.app) (E-Commerce)
-- [Beli Onlen](https://belionlen.web.app) (E-Commerce)
-- [DevPro Jabar](https://devprojabar.web.app) (Aplikasi untuk report aktivitas lapangan di departemen salah satu perusahaan swasta)
-- [On Hand Report](https://onhandreport.web.app) (Aplikasi untuk report aktivitas lapangan di departemen salah satu perusahaan swasta)
-- [WhatzApi](https://whatzapi.my.id) (WA unofficial API service)
+- [WhatzApi](https://whatzapi.my.id) (WA unofficial API service [Laravel 8])
+- [BlidiToko](https://bliditoko.web.app) (E-Commerce [Angular 11])
+- [Beli Onlen](https://belionlen.web.app) (E-Commerce [Angular 9])
+- [DevPro Jabar](https://devprojabar.web.app) (Aplikasi untuk report aktivitas lapangan di departemen salah satu perusahaan swasta [Angular 9])
+- [On Hand Report](https://onhandreport.web.app) (Aplikasi untuk report aktivitas lapangan di departemen salah satu perusahaan swasta [Angular 11])
 
 [github]: https://github.com/dedealan
 [twitter]: https://twitter.com/dedealanw
