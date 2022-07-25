@@ -39,7 +39,7 @@
 - [Beli Onlen](https://belionlen.web.app) (E-Commerce)
 - [DevPro Jabar](https://devprojabar.web.app) (Aplikasi untuk report aktivitas lapangan di departemen salah satu perusahaan swasta)
 - [On Hand Report](https://onhandreport.web.app) (Aplikasi untuk report aktivitas lapangan di departemen salah satu perusahaan swasta)
-- WhatsApp API Management (Aplikasi berbasis Laravel untuk mengirim pesan WhatsApp dengan banyak server dan banyak device)
+- [WhatzApi](https://whatzapi.my.id) (WA unofficial API service)
 
 [github]: https://github.com/dedealan
 [twitter]: https://twitter.com/dedealanw
