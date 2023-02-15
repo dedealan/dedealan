@@ -1,5 +1,4 @@
 ### Halo, perkenalkan nama saya Dede Alan Wiratmana.
-- 🏢 Saat ini saya bekerja di sebuah perusahaan yang bergerak di bidang online advertising.
 - 👨‍💻 Saya orang yang terbuka dan senang belajar dengan hal-hal baru di bidang IT, khususnya di bidan web development.
 - 🎓 Basis pendidikan saya bukan di bidang IT, tetapi saya sangat senang dalam menekuni bidang IT seperti membuat website dan web app.
 - ⛏ Salah satu hal yang saya senangi dalam pemrograman adalah saat melakukan *scraping*. Karena saya bisa mengolah sebuah informasi menjadi data, kemudian dari data tersebut saya bisa sajikan menjadi informasi bentuk lain yang saya inginkan.
